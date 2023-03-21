@@ -1,1 +1,4 @@
 # python-course-syllabus
+
+
+nasmdwd
