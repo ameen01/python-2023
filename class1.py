@@ -1,16 +1,11 @@
+# for help - https://www.w3schools.com/python/python_ref_string.asp
+
+
 x = 'asckftuyiomblpgjkxzbewmhkopjkxl'
 
-print()
-print()
-print()
-# def add(c,v):
-#     u = c+v
-#     return u
 
-# total =add(x,z)
-# print(total)
+print() #capitalize
+print() # how many letters are  
+print() # show vowels
 
-# def sub(e,r):
-#     w = e-r
-#     return w
 
