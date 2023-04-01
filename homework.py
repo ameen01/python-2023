@@ -1,5 +1,7 @@
 
-x = '*'
+x = '2'
+x = int(x)
+x = str(x)
 
 print(x)
 print(x*2)

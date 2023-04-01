@@ -7,9 +7,9 @@ y = 'aeiou'
 # print(x.count('')) # how many letters are  
 # print(y in x) # show vowels
 
-x = True
-y = 1
-z = 1.34 
-w = 'food'
+x = True # bool
+y = 1   # int
+z = 0.34 #float
+w = 'food' #str
 
 print(type(x))
