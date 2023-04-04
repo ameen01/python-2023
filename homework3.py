@@ -9,5 +9,18 @@
 #1 get the user name and print "welcome user"
 #ex "welcome ameen"
 
+usr_name = input('type your name:')
+print('hii',usr_name)
+
+
+
+
+
+
+
+
+
+
 
 #2 get number for usr and add it to your age 
+
