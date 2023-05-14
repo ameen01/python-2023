@@ -12,7 +12,16 @@
 #     print(x)
 
 #Write a program that takes a list of words and prints the length of each word using a for loop.
+# my_words = ['python', 'html','css', 'php']
+# for word in my_words:
+#     print(len(word))
+
 #Write a program that prints the sum of the numbers from 1 to 100 using a for loop.
+total = 0
+for x in range(1,100):
+    
+
+
 # my_list = [1,2,3,'food',1.33,True,[21]]
 # x= 'ameen','adam'
 # y = '3'
