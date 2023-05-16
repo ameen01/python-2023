@@ -19,8 +19,10 @@
 #Write a program that prints the sum of the numbers from 1 to 100 using a for loop.
 total = 0
 for x in range(1,100):
-    
+    total +=x
+print(total)
 
+#1+2+3+4+100
 
 # my_list = [1,2,3,'food',1.33,True,[21]]
 # x= 'ameen','adam'
