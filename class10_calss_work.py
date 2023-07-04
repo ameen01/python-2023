@@ -28,13 +28,39 @@ even_function(my_list)
 # returns a new list containing only the words with more than
 # 5 characters.
 
+def word_function(word_list):
+    word_list = list(word_list)
+    new_list2 = []
+    for word in word_list:
+        if len(word) > 5:
+            new_list2.append(word)
+    print(new_list2)
+
+names =['ameen', 'lara','mayada','hadil']
+word_function(names)
+
+
 
 # Write a function that calculates the sum of all the numbers 
 # from 1 to a given integer, but only if the number is greater
 # than 0.
 
-# write a function that takes three numbers as parameters and
+def sum_all(a):
+    sum = 0
+    if a == 0:
+        print('cant use this number ')
+    else:
+        for x in range(1,a):
+            sum +=x
+    print(sum)
+
+sum_all(8)
+# write a function that takes two numbers as parameters and
 #  returns the largest among them.
+def largest(x,z):
+    if x > z:
+        print(x, 'the largest number')
+    else:
+        print(z, 'is the largest')
 
-
-
+largest(5,6)
