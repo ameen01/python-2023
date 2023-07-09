@@ -6,7 +6,7 @@
 
 # # while True:
 # #   x ="*"
-# #   print(x)
+# #   print(x)      s
 
 # # #
 
